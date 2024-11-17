@@ -1,0 +1,19 @@
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: center;
+    row-gap: 25px;
+    column-gap: 25px;
+}
+
+.child {
+    width: 26%;
+    text-align: center;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
